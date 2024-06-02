@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jennie</h1>
+<h1 align="center">Olá 👋, Sou Jennifer</h1>
 <h3 align="center">Uma estudante de HTML5 e CSS3</h3>
 
 - 📫 How to reach me **hexenherzjennie@gmail.com**
